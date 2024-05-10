@@ -4,7 +4,7 @@
 
 **Descrição:**
 
-Este chatbot, executado no Google Colab, utiliza inteligência artificial para responder perguntas com base em documentação oficial. 
+Sabemos que tempo é dinheiro, e as vezes não podemos perder tempo realizando o mesmo processo de busca pela documentação oficial, e nem sempre essas são fáceis de pesquisar. Para isso este chatbot, executado no Google Colab, utiliza inteligência artificial para responder perguntas com base em documentação oficial, buscando otimizar seu tempo em buscas.
 
 **Funcionalidades:**
 
