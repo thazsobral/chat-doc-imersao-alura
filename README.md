@@ -54,5 +54,5 @@ Para dúvidas, sugestões ou reportar problemas, entre em contato conosco.
 
 **Explore o Potencial do Chatbot:**
 
-Com este chatbot no Colab, você tem acesso a um poderoso aliado para extrair conhecimento de seus documentos e otimizar diversos processos. 
+Com este chatbot no Colab, você tem acesso a um poderoso aliado para extrair conhecimento de documentações e otimizar seu tempo em busca por informações oficiais. 
 
